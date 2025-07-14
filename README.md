@@ -25,7 +25,7 @@ This repository contains the source code and deployment files for real-time Arab
    - Click **Upload** to flash the model onto Nicla Vision.
 
 ### Running the Model
-Once flashed, Nicla Vision will **capture handwriting input and classify Arabic letters in real-time**. The predictions will appear in the **Serial Monitor**.
+Once flashed, Nicla Vision will **capture handwriting input and classify Arabic letters in real-time**. The predictions will appear in the **Serial Monitor**. <br>
 Link for the demo to our project: [video](https://www.youtube.com/watch?v=1VjElxAcA4g)
 ---
 * ## Contributers:
