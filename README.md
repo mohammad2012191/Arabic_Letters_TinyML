@@ -1,4 +1,4 @@
-# Real-Time Arabic Letter Classification Using TinyML
+# Real-Time Arabic Letter Classification Using TinyML, KAUST
 
 This repository contains the source code and deployment files for real-time Arabic letter classification using TinyML, specifically optimized for **Nicla Vision**. The model was trained and deployed using **Edge Impulse**, achieving a test accuracy of **94.33%**. 
 
